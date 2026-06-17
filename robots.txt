@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /
 
 Sitemap: https://cywang-research.github.io/sitemap.xml
