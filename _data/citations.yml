@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-03'
 papers:
   N_vzKpUAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -10,7 +10,7 @@ papers:
     title: "Unobtrusively regulating children\u2019s posture via slow visual stimuli on tablets"
     year: '2023'
   N_vzKpUAAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 2
     title: 'Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course'
     year: '2026'
   N_vzKpUAAAAJ:9yKSN-GCB0IC:
@@ -50,7 +50,7 @@ papers:
     title: "Writeupright: Regulating children\u2019s handwriting body posture by unobstrusively error amplification via slow visual stimuli on tablets"
     year: '2024'
   N_vzKpUAAAAJ:kNdYIx-mwKoC:
-    citations: 0
+    citations: 1
     title: More Correcting or Confounding? When an AI Arguing Agent Informed by Common Student Misconceptions Joins Case-Based Peer-Argumentation in a Real Course
     year: '2026'
   N_vzKpUAAAAJ:qjMakFHDy7sC:
