@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   N_vzKpUAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -38,11 +38,11 @@ papers:
     title: Quantitative analysis of the correlation between body posture quality assessment scores and handwriting quality measures
     year: '2025'
   N_vzKpUAAAAJ:UeHWp8X0CEIC:
-    citations: 19
+    citations: 18
     title: A game-based approach for evaluating and customizing handwriting training using an autonomous social robot
     year: '2022'
   N_vzKpUAAAAJ:UebtZRa9Y70C:
-    citations: 3
+    citations: 4
     title: 'Robot-assisted handwriting training: An intervention for children with neurodevelopmental disorders'
     year: '2025'
   N_vzKpUAAAAJ:Zph67rFs4hoC:
@@ -50,7 +50,7 @@ papers:
     title: 'Arguing to Learn at Scale: A Semester-Long Study of an AI Arguing Agent in a Graduate Robotics Course'
     year: '2026'
   N_vzKpUAAAAJ:_FxGoFyzp5QC:
-    citations: 11
+    citations: 10
     title: "Writeupright: Regulating children\u2019s handwriting body posture by unobstrusively error amplification via slow visual stimuli on tablets"
     year: '2024'
   N_vzKpUAAAAJ:kNdYIx-mwKoC:
@@ -58,7 +58,7 @@ papers:
     title: More Correcting or Confounding? When an AI Arguing Agent Informed by Common Student Misconceptions Joins Case-Based Peer-Argumentation in a Real Course
     year: '2026'
   N_vzKpUAAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 12
     title: Task autocorrection for immersive teleoperation
     year: '2021'
   N_vzKpUAAAAJ:roLk4NBRz8UC:
@@ -74,7 +74,7 @@ papers:
     title: Handwriting analytics
     year: '2023'
   N_vzKpUAAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: Co-designing a child-robot relational norm intervention to regulate children's handwriting posture
     year: '2024'
   N_vzKpUAAAAJ:zYLM7Y9cAGgC:
