@@ -9,7 +9,7 @@ last_name: Wang
 contact_note: >
   Feel free to reach out to me via email for any questions, collaborations or just to say hi!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is a personal website for Chenyang Wang.
+  Hi, I'm Chenyang, a researcher in education technology and human-computer interaction.
 footer_text: >
   "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking." — Albert Einstein
 keywords: chenyang, wang, research, education technology, human-computer interaction, epfl, eth # add your own keywords or leave empty
@@ -96,8 +96,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
