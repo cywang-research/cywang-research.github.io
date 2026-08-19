@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-19'
 papers:
   N_vzKpUAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: A game-based approach for evaluating and customizing handwriting training using an autonomous social robot
     year: '2022'
   N_vzKpUAAAAJ:UebtZRa9Y70C:
-    citations: 4
+    citations: 5
     title: 'Robot-assisted handwriting training: An intervention for children with neurodevelopmental disorders'
     year: '2025'
   N_vzKpUAAAAJ:Zph67rFs4hoC:
@@ -66,7 +66,7 @@ papers:
     title: 'Learning by Teaching: Designing Teachable Agents to Support Children''s Pronunciation Skill Learning'
     year: '2025'
   N_vzKpUAAAAJ:u-x6o8ySG0sC:
-    citations: 6
+    citations: 7
     title: 'The irecheck project: using tablets and robots for personalised handwriting practice'
     year: '2023'
   N_vzKpUAAAAJ:u5HHmVD_uO8C:
